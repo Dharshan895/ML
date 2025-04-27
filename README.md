@@ -1,4 +1,4 @@
-# ML
+# Basic Diabetes Prediction
 Diabetes Prediction using Machine Learning
 
 This project predicts whether a person is diabetic based on health data.
